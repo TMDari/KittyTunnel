@@ -17,4 +17,4 @@ Also note that downloading copyrighted content against the will of it's creators
 
 If at any time you do anything with the tooö i provide that is adviced against in the warning section, or in any form against the law, I will not be taking responsibility and my tool will also not be at fault.
 
-linux versions are compiled by weensome - creator of Pixelbrush
+linux versions are compiled by weensome - creator of Pixel Brush
