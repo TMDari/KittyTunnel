@@ -15,6 +15,6 @@ Warning:
 Note that downloading videos from YouTube without YouTube premium or using the provided in app downloader, is against YouTube guidelines, and may result in your account getting banned.
 Also note that downloading copyrighted content against the will of it's creators, using my tool or any other tools alike, is Illegal.
 
-If at any time you do anything with the tooö i provide that is adviced against in the warning section, or in any form against the law, I will not be taking responsibility and my tool will also not be at fault.
+If at any time you do anything with the tool i provide that is adviced against in the warning section, or in any form against the law, I will not be taking responsibility and my tool will also not be at fault.
 
 linux versions are compiled by weensome - creator of Pixel Brush
